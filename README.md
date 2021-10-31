@@ -1,8 +1,8 @@
 # SG-GAN-TF2
-The project shows the improvements in semantic segmentation on a dataset of real-world urban images for autonomouse driving task, using the recent Generative Adversarial Network model GRAD-GAN which can produce better results against the traditional fully-connected and convolutional discriminative models.  
+The project shows the improvements in semantic segmentation on a dataset of real-world urban images for autonomouse driving task, using recent Generative Adversarial Network model architectures (such as Grad-GAN and Pix2Pix) which can produce better results against the traditional fully-connected and convolutional discriminative models.  
 
 ### Dataset
-The EEG data are available from [PhysioNet](https://physionet.org/content/eegmmidb/1.0.0/),“EEG Motor Movement/Imagery Dataset". The referenced web page contains a detailed description of the experimental protocol and metadata contained in the files. The whole dataset contains data acquired from 109 subjects, each containing 14 runs (files) of acquisition. Only a selection of the files is relevant to this project. Data is provided in EDF files (European Data Format). This format includes metadata, among which the sampling frequency and the channel labels.
+ [PhysioNet](https://physionet.org/content/eegmmidb/1.0.0/)
 
 ### Installation Procedure
 - The scripts are compaitable with MATLAB 2020a
