@@ -6,7 +6,10 @@ The images used to train the models are extracted form [The Cityscapes Dataset](
 The whole dataset contains images sequences acquired in urban scenarios from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.
 
 ### Installation Procedure
-
+Install dependences running the command:
+```
+pip3 install -r requirements.txt
+```
 ### File Structure
 
 ### Documentation
