@@ -8,8 +8,9 @@ The whole dataset contains images sequences acquired in urban scenarios from 50 
 ### Installation Procedure
 Install dependences running the command:
 ```
-pip3 install -r requirements.txt
+pip3 install -r requirements_VP_project.txt
 ```
+
 ### File Structure
 
 ### Documentation
@@ -20,5 +21,6 @@ Implementation: Changes made throughout the development process, partial results
 Experiments and Results: Plots and predictions obtained during parameters tuning
 
 ### Execution of the code
+
 
 ### Limitations
