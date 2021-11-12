@@ -23,5 +23,11 @@ Experiments and Results: Plots and predictions obtained during parameters tuning
 ### Execution of the code
 - **Data sampling**  
 Run the script [prepare_data.py](prepare_data.py) to sample labeled images and segmentation data from the whole dataset into two distinct directories *trainA* and *trainA_seg*.
+- **Training**  
+Run the script [main.py](main.py) with the argument `phase = "train"`:
+```
+python3 main.py --phase "train"
+```
+Additional training arguments allows to set the number of epochs, the input batch size, the shape of input images, enabling augmentation, set hyperparameters for the neural network models (more info by running the script [main.py](main.py) passing the argument `--help`: `python3 main.py --help`
 
 ### Limitations
