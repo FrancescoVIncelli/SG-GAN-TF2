@@ -28,6 +28,13 @@ Run the script [main.py](main.py) with the argument `phase = "train"`:
 ```
 python3 main.py --phase "train"
 ```
-Additional training arguments allows to set the number of epochs, the input batch size, the shape of input images, enabling augmentation, set hyperparameters for the neural network models (more info by running the script [main.py](main.py) passing the argument `--help`: `python3 main.py --help`
-
+Additional training arguments allows to set the number of epochs, the input batch size, the shape of input images, enabling augmentation, set hyperparameters for the neural network models (more info by running the script [main.py](main.py) passing the argument `--help`:
+```
+python3 main.py --help
+```
+- **Testing**  
+Run the script [main.py](main.py) with the argument `phase = "test"` and keeping the same values of models hyperparameters set for the train phase:
+```
+python3 main.py --phase "test"
+```
 ### Limitations
