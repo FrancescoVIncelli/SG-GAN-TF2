@@ -21,6 +21,7 @@ Implementation: Changes made throughout the development process, partial results
 Experiments and Results: Plots and predictions obtained during parameters tuning
 
 ### Execution of the code
-- Data sampling  Run the script [prepare_data.py](prepare_data.py) to sample labeled images and segmentation data from the whole dataset into two distinct directories *trainA* and *trainA_seg*.
+- **Data sampling**
+    Run the script [prepare_data.py](prepare_data.py) to sample labeled images and segmentation data from the whole dataset into two distinct directories *trainA* and *trainA_seg*.
 
 ### Limitations
