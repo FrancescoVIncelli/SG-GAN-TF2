@@ -11,8 +11,6 @@ Install dependences running the command:
 pip3 install -r requirements_VP_project.txt
 ```
 
-### File Structure
-
 ### Documentation
 The project shows the improvements in semantic segmentation on a dataset of real-world urban images for autonomouse driving task, using recent Generative Adversarial Network model architectures (such as Grad-GAN and Pix2Pix) which can produce better results against the traditional fully-connected and convolutional discriminative models.  
 
