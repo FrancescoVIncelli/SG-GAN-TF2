@@ -37,4 +37,9 @@ Run the script [main.py](main.py) with the argument `phase = "test"` and keeping
 ```
 python3 main.py --phase "test"
 ```
-### Limitations
+### Limitations and Future works
+The data augmentation algorithms increses the computational demand for the training process, requiring a graphic unit equipped with a huge memory space.  
+Reducing the size of the source image reduces the resources required for its training but limits the effectiveness achieved.  
+  
+Potential for improvement given better conditions in the data source and computational resources, such as more classes predicted and more detail in the generated image.
+
