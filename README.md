@@ -1,5 +1,5 @@
 # SG-GAN-TF2
-Semantic Segmentation on real-world urban images for autonomouse driving task using Generative Adversarial Network model architectures.
+Semantic Segmentation on real-world urban images for autonomouse driving task using Generative Adversarial Networks.
 
 ### Dataset
 The images used to train the models are extracted form [The Cityscapes Dataset](https://www.cityscapes-dataset.com/), a large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes.  
